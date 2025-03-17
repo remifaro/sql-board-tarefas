@@ -5,6 +5,3 @@ Este é um projeto backend de um board de tarefas realizado para o Bootcamp Deco
 ## Instalação
 Como pré-requisito, você precisa ter:
 java version "17.0.11" 
-
-### `xx serve`
-O aplicativo estará disponível no endereço: `xxxxxxxxxx`.
